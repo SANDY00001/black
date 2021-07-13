@@ -1,0 +1,40 @@
+body {background-color:black;
+ }
+
+hr {
+
+  border-color:grey;
+  border-style:none;
+  border-top-style:dotted;
+  border-width:5px;
+  width:5%;
+}
+h1 {
+    color:red;
+}
+h3 {
+   color:orange;
+ }
+   p{
+     color:white;
+   }
+
+ol{
+  color: white;
+}
+table{
+  border color: white;
+color:#FFF;}
+
+input,select {
+background-color : black;
+color : white;
+}
+form {
+background-color : white;
+width: 30%;
+}
+textarea{
+  background-color : black;
+  color: white;
+}
